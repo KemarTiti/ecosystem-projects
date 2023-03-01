@@ -1,0 +1,18 @@
+
+{
+  "name": "Pyth Network",
+  "slug": "Pyth-Network",
+  "date": "2022-09-07",
+  "highlight": "The Pyth network is a first-party financial oracle network designed to publish continuous real-world data on-chain in a tamper-resistant, decentralized, and self-sustainable environment.",
+  "logo": "/img/pyth.svg",
+  "tags": ["defi","oracle"],
+  "status": "live",
+  "website": "https://pyth.network/",
+  "twitter": "https://twitter.com/PythNetwork",
+  "summary": "The Pyth network is an on-demand pull model oracle, where users are empowered to push available prices on-chain when needed and enable everyone in that blockchain environment to access that data point.",
+  "telegram": "https://t.me/Pyth_Network",
+  "discord": "https://discord.gg/invite/PythNetwork",
+  "docs":"https://docs.pyth.network/",
+  "github":"https://github.com/pyth-network",
+  "token":""
+}
